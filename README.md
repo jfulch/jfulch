@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-     ██╗███████╗███████╗███████╗███████╗
-     ██║██╔════╝██╔════╝██╔════╝██╔════╝
-     ██║█████╗  ███████╗███████╗█████╗  
-██   ██║██╔══╝  ╚════██║╚════██║██╔══╝  
-╚█████╔╝███████╗███████║███████║███████╗
- ╚════╝ ╚══════╝╚══════╝╚══════╝╚══════╝
+     ██╗███████╗███████╗███████╗███████╗    ███████╗██╗   ██╗██╗      ██████╗██╗  ██╗███████╗██████╗ 
+     ██║██╔════╝██╔════╝██╔════╝██╔════╝    ██╔════╝██║   ██║██║     ██╔════╝██║  ██║██╔════╝██╔══██╗
+     ██║█████╗  ███████╗███████╗█████╗      █████╗  ██║   ██║██║     ██║     ███████║█████╗  ██████╔╝
+██   ██║██╔══╝  ╚════██║╚════██║██╔══╝      ██╔══╝  ██║   ██║██║     ██║     ██╔══██║██╔══╝  ██╔══██╗
+╚█████╔╝███████╗███████║███████║███████╗    ██║     ╚██████╔╝███████╗╚██████╗██║  ██║███████╗██║  ██║
+ ╚════╝ ╚══════╝╚══════╝╚══════╝╚══════╝    ╚═╝      ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 # 👋 Senior Integration Engineer @ GitHub
@@ -48,15 +48,9 @@
 
 <div align="center">
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jfulch&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ### 📈 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfulch&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfulch&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/jfulch/jfulch/output/github-contribution-grid-snake-dark.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfulch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfulch&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -74,8 +68,6 @@
 ---
 
 <div align="center">
-
-### 💡 *"Connecting systems, empowering developers, building the future"*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfulch.jfulch&left_color=grey&right_color=blue)
 
