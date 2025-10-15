@@ -64,11 +64,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessefulcher/)
 
 </div>
-
----
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfulch.jfulch&left_color=grey&right_color=blue)
-
-</div>
