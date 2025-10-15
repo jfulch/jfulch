@@ -9,7 +9,7 @@
  ╚════╝ ╚══════╝╚══════╝╚══════╝╚══════╝    ╚═╝      ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-# 👋 Senior Integration Engineer @ GitHub
+# Senior Integration Engineer @ GitHub
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+future+of+developer+collaboration;Integrating+systems+at+scale;Making+GitHub+work+seamlessly" alt="Typing SVG" />
 
