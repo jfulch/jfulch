@@ -44,18 +44,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfulch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfulch&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
